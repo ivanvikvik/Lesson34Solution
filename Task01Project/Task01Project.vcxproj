@@ -139,6 +139,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="test01.cpp" />
+    <ClCompile Include="test02.cpp" />
+    <ClCompile Include="test03.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
